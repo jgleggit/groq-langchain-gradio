@@ -1,0 +1,6 @@
+# Environments
+.env
+.groq-langchain-gradio
+
+# mypy
+.mypy_cache/
